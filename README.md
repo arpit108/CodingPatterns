@@ -1,0 +1,3 @@
+# CodingPatterns
+
+Contains coding pattern 
